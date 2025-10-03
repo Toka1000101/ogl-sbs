@@ -1,6 +1,4 @@
 #include <GL/freeglut.h>
-#include <GL/freeglut_std.h>
-#include <GL/gl.h>
 #include <stdio.h>
 
 static void RenderSceneCB() {
